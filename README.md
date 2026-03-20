@@ -1,15 +1,21 @@
-# Exercícios de Python – Curso em Vídeo (Mundo 1)
+# Exercícios de Python – Curso em Vídeo
 
 Este repositório contém minhas soluções para os exercícios do curso de Python do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
 
-## Conteúdos praticados
+## Estrutura do repositório
 
-* Entrada e saída de dados
-* Operações aritméticas
-* Manipulação de strings
-* Estruturas condicionais
-* Lógica de programação
+* Mundo 1: conceitos iniciais de programação
+* Mundo 2: (em andamento)
 
-## Total de exercícios
+## Tecnologias utilizadas
 
-35 exercícios resolvidos em Python.
+* Python 3
+
+## Objetivo
+
+Praticar lógica de programação e desenvolver habilidades fundamentais para a área de desenvolvimento de software.
+
+## Autor
+
+Wesley Santos Souza
+GitHub: https://github.com/WesleySantooss
